@@ -1,0 +1,18 @@
+Transaction Date,Posting Date,Description,Type,Amount
+9/2/2026,9/3/2026,Greenfield Market,Sale,-86.42
+9/4/2026,9/5/2026,Bluebird Diner,Sale,-34.50
+9/5/2026,9/6/2026,QuickFuel #42,Sale,-45.00
+9/6/2026,9/7/2026,Paperback Books,Sale,-28.99
+9/8/2026,9/9/2026,CloudCafe,Sale,-6.50
+9/9/2026,9/10/2026,Trailhead Outfitters,Sale,-129.95
+9/11/2026,9/12/2026,Volt Electronics,Sale,-249.00
+9/12/2026,9/13/2026,Sunny Pharmacy,Sale,-18.75
+9/14/2026,9/15/2026,Greenfield Market,Sale,-112.30
+9/16/2026,9/17/2026,Bluebird Diner,Sale,-52.80
+9/18/2026,9/19/2026,StreamBox Monthly,Sale,-15.99
+9/20/2026,9/21/2026,FitZone Gym,Sale,-39.00
+9/22/2026,9/23/2026,Happy Paws Pet,Sale,-64.20
+9/24/2026,9/25/2026,City Transit Pass,Sale,-99.00
+9/26/2026,9/27/2026,Greenfield Market,Sale,-74.15
+9/10/2026,9/11/2026,Autopay Payment - Thank You,Payment,1057.55
+9/13/2026,9/14/2026,Returned Purchase - Volt Electronics,Refund,89.99

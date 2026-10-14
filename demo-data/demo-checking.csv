@@ -1,0 +1,9 @@
+Posting Date,Description,Amount,Type
+9/1/2026,Payroll Deposit,8500.00,ACH_CREDIT
+9/3/2026,HOA Dues - Maple Community,-320.00,ACH_DEBIT
+9/5/2026,Electric Bill,-92.40,ACH_DEBIT
+9/7/2026,Zelle Transfer to Savings,-500.00,TRANSFER
+9/8/2026,CloudCafe,-6.50,DEBIT
+9/10/2026,Internet Bill,-79.99,ACH_DEBIT
+9/15/2026,Autopay - Demo Credit Card,-1057.55,ACH_DEBIT
+9/20/2026,Water Bill,-38.20,ACH_DEBIT
